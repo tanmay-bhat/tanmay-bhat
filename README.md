@@ -6,7 +6,8 @@ DevOps | Cloud Engineer
 
 * 🌍  I'm based in Banglore
 * 🖥️  See my portfolio at [tanmay-bhat.github.io](http://tanmay-bhat.github.io/)
-* ✉️  You can contact me at [tanmaybhat24@gmail.com](mailto:tanmaybhat24@gmail.com)
+* 📝  Checkout my Blogs at [Medium](https://tanmay-bhat.medium.com/)
+* ✉️  You can contact me at [tanmaybhat24@gmail.com](mailto:tanmaybhat24@gmail.com)
 * 🧠  I'm learning Everything DevOps (is what I believe)
 * 🤝  I'm open to collaborating on anything related to Cloud & DevOps
 
